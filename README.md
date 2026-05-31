@@ -53,4 +53,4 @@ if __name__ == "__main__":
 
 Classification: Stratified 5-Fold Cross Validation (Accuracy)
 
-Regression: OLS t-statistic p-value Screening, $R^2$ Score, MAE, MAPE
+Regression: OLS t-statistic p-value Screening, $R^2$ Score, MAE
